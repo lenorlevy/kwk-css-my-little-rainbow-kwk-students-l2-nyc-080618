@@ -10,19 +10,19 @@ div {
   border-bottom-color: transparent; /* and the bottom of the circle */
 }
 
-@keyframes move {
-  from {
-   left: 0px;
-  }
+/*@keyframes move {*/
+/*  from {*/
+/*   left: 0px;*/
+/*  }*/
 
-  to {
-    right: 0px;
-  }
-}
+/*  to {*/
+/*    right: 0px;*/
+/*  }*/
+/*}*/
 
-#rainbow {
-  animation: move 5s infinite;
-}
+/*#rainbow {*/
+/*  animation: move 5s infinite;*/
+/*}*/
 
 
 #red {
