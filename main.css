@@ -19,9 +19,11 @@ div {
     right: 0px;
   }
 }
+
 #rainbow {
   animation: move 5s infinite;
 }
+
 
 #red {
   border-top-color: #f00;
