@@ -11,7 +11,13 @@ div {
 }
 
 @keyframes move {
-  
+  from {
+   left: 0px;
+  }
+
+  to {
+    right: 0px;
+  }
 }
 
 #red {
